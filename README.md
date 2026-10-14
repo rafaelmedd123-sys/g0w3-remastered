@@ -1,7 +1,7 @@
 # g0w3-remastered
 gow3cusa01623portpc
 https://buzzheavier.com/fbqq2ljcwr0p 
-God of War III Remastered — PC Port
+God of War III Remastered — PC Port:https://github.com/FelipePrado0/gow3_pc
 
 A community-focused project page dedicated to information, compatibility, and technical resources related to God of War III Remastered on Windows PC.
 
